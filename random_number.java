@@ -1,5 +1,5 @@
 import java.util.*;
-class jc
+class random_number
 {
 public static void main(String[] dfs)
 
@@ -23,5 +23,6 @@ else {f=0;}
 }
 }
 }
+
 
 
